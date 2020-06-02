@@ -2,13 +2,13 @@
 
 
 
-Personnages particuliers. Les joueurs peuvent endosser les rôles suivants au d ́ebut de la partie, qui leur donnent des capacités particulières (chaque rôle ne pouvant être représentée qu’une fois) :
+Personnages particuliers. Les joueurs peuvent endosser les rôles suivants au début de la partie, qui leur donnent des capacités particulières (chaque rôle ne pouvant être représenté qu’une fois) :
 — Pilote : peut se d ́eplacer vers une zone non submergée arbitraire (coûte une action).
 — Ingénieur : peut assécher deux zones pour une seule action.
 — Explorateur : peut se déplacer et assécher diagonalement.
 — Navigateur : peut déplacer un autre joueur (coûte une action).
-— Plongeur : peut traverser une zone submerg ́ee (coûte une action).
-— Messager : peut donner une cl ́e qu’il possède à un joueur distant (coûte une action).
+— Plongeur : peut traverser une zone submergée (coûte une action).
+— Messager : peut donner une clé qu’il possède à un joueur distant (coûte une action).
 
 Les joueurs sont placés sur une case aléatoirement
 Quatre clés sont présentées par partie et ce, pour chaque artéfact)
